@@ -37,4 +37,5 @@ simvol = str(input('введите символ - '))
 #     proverka = simvol * i
 #     if i % 2 == 0:
 #         print((proverka + simvol).center(height * 2), end='\n')
+#
 
