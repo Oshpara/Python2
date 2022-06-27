@@ -36,7 +36,7 @@ while True:
     cnt += 1
     if user_num == x:
         print(f'Ты угадал число за {cnt} попыток')
-        print('Спасибо за игру!')
+        print('Спасибо за игру')
         break
     elif user_num > x:
         print('Моё число меньше')
